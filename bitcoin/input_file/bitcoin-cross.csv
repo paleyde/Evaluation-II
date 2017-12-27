@@ -1,0 +1,402 @@
+#|Source|Pair|Volume (24h)|Price|Volume (%)|Updated
+1|Bitfinex|BTC/USD|$97,209,100|$4299.90|8.62%|Recently
+2|bitFlyer|BTC/JPY|$52,117,800|$4302.54|4.62%|Recently
+3|Bithumb|BTC/KRW|$51,150,100|$4334.05|4.54%|Recently
+4|Bitstamp|BTC/USD|$42,716,100|$4307.97|3.79%|Recently
+5|GDAX|BTC/USD|$40,917,400|$4312.03|3.63%|Recently
+6|HitBTC|BCC/BTC|$37,448,000|$4362.97|3.32%|Recently
+7|WEX|BTC/USD|$24,168,500|$4376.86|2.14%|Recently
+8|Kraken|BTC/EUR|$23,057,400|$4312.52|2.04%|Recently
+9|Gemini|BTC/USD|$21,497,600|$4300.74|1.91%|Recently
+10|BTCC|BTC/USD|$19,096,900|$4370.00|1.69%|Recently
+11|Bittrex|BTC/USDT|$18,959,800|$4309.62|1.68%|Recently
+12|Binance|NEO/BTC|$17,482,100|$4346.46|1.55%|Recently
+13|Bittrex|NEO/BTC|$17,115,500|$4340.45|1.52%|Recently
+14|Kraken|BTC/USD|$16,253,400|$4318.40|1.44%|Recently
+15|Bittrex|ADA/BTC|$13,997,700|$4320.97|1.24%|Recently
+16|HitBTC|XMR/BTC|$13,147,800|$4327.96|1.17%|Recently
+17|CHBTC|BTC/CNY|$13,045,000|* $4088.98|1.16%|Recently
+18|Poloniex|BTC/USDT|$12,742,900|$4303.12|1.13%|Recently
+19|Korbit|BTC/KRW|$11,811,400|$4337.55|1.05%|Recently
+20|Bitfinex|ETH/BTC|$11,776,800|$4322.79|1.04%|Recently
+21|Bittrex|ETH/BTC|$11,358,000|$4320.89|1.01%|Recently
+22|Poloniex|ETH/BTC|$10,811,500|$4325.70|0.96%|Recently
+23|Binance|WTC/BTC|$10,563,200|$4296.07|0.94%|Recently
+24|OKCoin.cn|BTC/CNY|$9,712,540|* $4146.52|0.86%|Recently
+25|Binance|ETH/BTC|$9,708,900|$4303.44|0.86%|Recently
+26|LakeBTC|BTC/USD|$9,558,400|$4461.30|0.85%|Recently
+27|Bittrex|QTUM/BTC|$9,403,450|$4292.92|0.83%|Recently
+28|Coinone|BTC/KRW|$9,328,460|$4333.17|0.83%|Recently
+29|Bittrex|EMC2/BTC|$8,875,440|$4337.16|0.79%|Recently
+30|Poloniex|BTS/BTC|$8,629,990|$4045.53|0.77%|Recently
+31|YoBit|ETH/BTC|$8,423,760|$4349.42|0.75%|Recently
+32|itBit|BTC/USD|$7,834,180|$4309.44|0.69%|Recently
+33|CoinsBank|BTC/EUR|$7,715,510|$4313.80|0.68%|Recently
+34|Binance|BNB/BTC|$7,579,960|$4328.20|0.67%|Recently
+35|Binance|SNM/BTC|$7,339,670|$4233.86|0.65%|Recently
+36|BCC Exchange|BCC/BTC|$7,312,270|$4319.30|0.65%|Recently
+37|CoinsBank|BTC/USD|$6,738,020|$4255.09|0.60%|Recently
+38|HitBTC|ZEC/BTC|$6,627,800|$4311.29|0.59%|Recently
+39|Bitstamp|BTC/EUR|$6,377,440|$4317.34|0.57%|Recently
+40|Bittrex|STRAT/BTC|$6,367,550|$4298.00|0.56%|Recently
+41|Bittrex|OMG/BTC|$6,302,970|$4324.59|0.56%|Recently
+42|Bittrex|ADX/BTC|$6,252,860|$4334.18|0.55%|Recently
+43|Gatecoin|BTC/USD|$6,194,660|$4416.90|0.55%|Recently
+44|Gatecoin|BTC/HKD|$6,083,890|$4457.39|0.54%|Recently
+45|GDAX|BTC/EUR|$5,989,810|$4395.00|0.53%|Recently
+46|HitBTC|ETH/BTC|$5,458,110|$4322.22|0.48%|Recently
+47|Bittrex|BAT/BTC|$5,344,080|$4318.49|0.47%|Recently
+48|HitBTC|BTC/USDT|$5,322,870|$4318.64|0.47%|Recently
+49|Bitfinex|BCH/BTC|$5,122,860|$4334.69|0.45%|Recently
+50|Bittrex|BTS/BTC|$4,941,540|$4073.51|0.44%|Recently
+51|Livecoin|ETH/BTC|$4,686,350|$4346.09|0.42%|Recently
+52|HitBTC|DASH/BTC|$4,552,880|$4324.75|0.40%|Recently
+53|Bittrex|PIVX/BTC|$4,534,110|$4361.29|0.40%|Recently
+54|Gatecoin|ETH/BTC|$4,424,210|$4330.40|0.39%|Recently
+55|BitBay|BTC/PLN|$4,347,760|$4304.20|0.39%|Recently
+56|Bittrex|BCC/BTC|$4,314,470|$4344.48|0.38%|Recently
+57|Poloniex|XMR/BTC|$4,287,780|$4332.70|0.38%|Recently
+58|Poloniex|DASH/BTC|$4,148,100|$4298.14|0.37%|Recently
+59|Bittrex|IOP/BTC|$4,101,710|$4285.96|0.36%|Recently
+60|YoBit|LSK/BTC|$4,065,270|$4317.25|0.36%|Recently
+61|Huobi|BTC/CNY|$3,928,160|* $4047.18|0.35%|Recently
+62|Bittrex|XRP/BTC|$3,898,650|$4319.80|0.35%|Recently
+63|Binance|BTC/USDT|$3,831,270|$4313.62|0.34%|Recently
+64|Poloniex|XRP/BTC|$3,732,450|$4304.42|0.33%|Recently
+65|Binance|LINK/BTC|$3,670,800|$4308.71|0.33%|Recently
+66|CEX.IO|BTC/USD|$3,588,840|$4364.00|0.32%|Recently
+67|CoinExchange|REC/BTC|$3,582,660|$4330.61|0.32%|Recently
+68|Binance|QTUM/BTC|$3,259,440|$4292.92|0.29%|Recently
+69|Bittrex|LSK/BTC|$3,246,300|$4368.20|0.29%|Recently
+70|Bittrex|DGB/BTC|$3,116,910|$4316.43|0.28%|Recently
+71|Poloniex|BCH/BTC|$2,946,190|$4332.24|0.26%|Recently
+72|Bittrex|LTC/BTC|$2,781,100|$4337.04|0.25%|Recently
+73|Poloniex|STRAT/BTC|$2,705,530|$4292.34|0.24%|Recently
+74|BTC38|BTC/CNY|$2,701,000|* $4265.33|0.24%|Recently
+75|Tidex|BCH/BTC|$2,635,690|$4338.78|0.23%|Recently
+76|Poloniex|ZEC/BTC|$2,528,850|$4320.88|0.22%|Recently
+77|Binance|MCO/BTC|$2,516,690|$4304.54|0.22%|Recently
+78|Tidex|WAVES/BTC|$2,495,100|$4315.53|0.22%|Recently
+79|GetBTC|BTC/EUR|$2,461,560|$4395.64|0.22%|Recently
+80|GetBTC|BTC/USD|$2,460,700|$4394.11|0.22%|Recently
+81|Bitfinex|LTC/BTC|$2,434,500|$4323.52|0.22%|Recently
+82|GetBTC|BTC/RUB|$2,401,010|$4287.52|0.21%|Recently
+83|Kraken|ETH/BTC|$2,328,420|$4317.10|0.21%|Recently
+84|Bitfinex|DSH/BTC|$2,269,040|$4315.02|0.20%|Recently
+85|Bitfinex|IOT/BTC|$2,204,680|$4340.67|0.20%|Recently
+86|Livecoin|BTC/USD|$2,154,930|$4327.96|0.19%|Recently
+87|ACX|BTC/AUD|$2,121,490|$4368.17|0.19%|Recently
+88|Poloniex|LTC/BTC|$2,116,580|$4324.52|0.19%|Recently
+89|CoinExchange|ELIX/BTC|$2,053,500|$4495.04|0.18%|Recently
+90|HitBTC|XDN/BTC|$2,048,400|$4324.41|0.18%|Recently
+91|LakeBTC|BTC/JPY|$2,028,580|$4467.09|0.18%|Recently
+92|Bittrex|PAY/BTC|$2,002,690|$4316.09|0.18%|Recently
+93|Bittrex|ARK/BTC|$1,975,100|$4297.45|0.18%|Recently
+94|Bit-Z|ETH/BTC|$1,951,460|$4350.99|0.17%|Recently
+95|Bittrex|RDD/BTC|$1,918,000|$4509.79|0.17%|Recently
+96|Binance|LTC/BTC|$1,914,390|$4361.10|0.17%|Recently
+97|Binance|BCC/BTC|$1,889,490|$4351.06|0.17%|Recently
+98|Coinfloor|BTC/GBP|$1,861,400|$4319.47|0.17%|Recently
+99|GDAX|ETH/BTC|$1,851,640|$4322.79|0.16%|Recently
+100|Allcoin|QTUM/BTC|$1,843,720|$4294.46|0.16%|Recently
+101|Liqui|VEN/BTC|$1,813,620|$4365.36|0.16%|Recently
+102|YoBit|WAVES/BTC|$1,803,110|$4318.47|0.16%|Recently
+103|Poloniex|DGB/BTC|$1,783,590|$4343.16|0.16%|Recently
+104|Allcoin|HSR/BTC|$1,774,260|$4685.57|0.16%|Recently
+105|OKEx|BCC/BTC|$1,719,050|$4341.68|0.15%|Recently
+106|Bitfinex|XMR/BTC|$1,717,700|$4327.34|0.15%|Recently
+107|Cryptopia|ODN/BTC|$1,705,810|$4273.00|0.15%|Recently
+108|Livecoin|FRST/BTC|$1,682,420|$4323.31|0.15%|Recently
+109|Bitcoin Indonesia|BTC/IDR|$1,680,200|$4343.35|0.15%|Recently
+110|Bittrex|ZEC/BTC|$1,662,430|$4329.36|0.15%|Recently
+111|Poloniex|EMC2/BTC|$1,631,810|$4306.98|0.14%|Recently
+112|Bittrex|XMR/BTC|$1,614,070|$4350.71|0.14%|Recently
+113|Bittrex|DASH/BTC|$1,560,240|$4311.07|0.14%|Recently
+114|Bit-Z|FCT/BTC|$1,555,510|$4318.25|0.14%|Recently
+115|Liqui|SALT/BTC|$1,554,740|$4370.07|0.14%|Recently
+116|Luno|BTC/ZAR|$1,538,140|$4450.72|0.14%|Recently
+117|Bit-Z|LTC/BTC|$1,498,840|$4307.21|0.13%|Recently
+118|BtcTrade|BTC/CNY|$1,493,000|* $3732.51|0.00%|39 hours ago
+119|Binance|OMG/BTC|$1,472,820|$4343.25|0.13%|Recently
+120|Binance|IOTA/BTC|$1,469,480|$4280.89|0.13%|Recently
+121|Binance|SALT/BTC|$1,469,400|$4248.55|0.13%|Recently
+122|Paribu|BTC/TRY|$1,453,770|$4291.46|0.13%|Recently
+123|Bittrex|GAME/BTC|$1,444,950|$4314.98|0.13%|Recently
+124|Bitfinex|NEO/BTC|$1,385,030|$4342.25|0.12%|Recently
+125|Poloniex|GAME/BTC|$1,380,480|$4314.98|0.12%|Recently
+126|C-CEX|MCAP/BTC|$1,339,210|$4217.41|0.12%|Recently
+127|Bittrex|WAVES/BTC|$1,329,450|$4309.15|0.12%|Recently
+128|Poloniex|LSK/BTC|$1,327,720|$4359.67|0.12%|Recently
+129|Poloniex|ETC/BTC|$1,316,790|$4311.38|0.12%|Recently
+130|Bittrex|MTL/BTC|$1,316,770|$4330.12|0.12%|Recently
+131|Binance|KNC/BTC|$1,307,700|$4247.37|0.12%|Recently
+132|BX Thailand|BTC/THB|$1,304,180|$4316.75|0.12%|Recently
+133|Livecoin|DASH/BTC|$1,301,720|$4461.26|0.12%|Recently
+134|QuadrigaCX|BTC/CAD|$1,298,130|$4383.77|0.12%|Recently
+135|Liqui|BTC/USDT|$1,294,140|$4314.57|0.11%|Recently
+136|Bittrex|CVC/BTC|$1,244,970|$4329.48|0.11%|Recently
+137|Bittrex|XVG/BTC|$1,232,990|$4321.93|0.11%|Recently
+138|Mercado Bitcoin|BTC/BRL|$1,224,180|$4590.93|0.11%|Recently
+139|Bitfinex|OMG/BTC|$1,220,480|$4318.35|0.11%|Recently
+140|Bittrex|VIA/BTC|$1,189,660|$4322.90|0.11%|Recently
+141|Poloniex|GAS/BTC|$1,183,160|$4335.56|0.10%|Recently
+142|LakeBTC|BTC/GBP|$1,174,770|$4555.80|0.10%|Recently
+143|Poloniex|XEM/BTC|$1,168,970|$4461.68|0.10%|Recently
+144|Bittrex|APX/BTC|$1,165,210|$4319.04|0.10%|Recently
+145|Bittrex|SYS/BTC|$1,153,930|$4313.23|0.10%|Recently
+146|Bittrex|SC/BTC|$1,145,810|$4305.94|0.10%|Recently
+147|Poloniex|STR/BTC|$1,118,690|$4448.75|0.10%|Recently
+148|USD X|BTC/USD|$1,106,970|$4294.11|0.10%|Recently
+149|Bitso|BTC/MXN|$1,102,160|$4326.87|0.10%|Recently
+150|Bittrex|XEM/BTC|$1,095,760|$4456.49|0.10%|Recently
+151|Gemini|ETH/BTC|$1,081,040|$4326.59|0.10%|Recently
+152|LakeBTC|BTC/EUR|$1,080,960|$4456.10|0.10%|Recently
+153|Bitonic|BTC/EUR|$1,075,470|$4318.54|0.10%|Recently
+154|Bittrex|FUN/BTC|$1,053,480|$4324.40|0.09%|Recently
+155|Binance|STRAT/BTC|$1,045,510|$4287.08|0.09%|Recently
+156|Bit-Z|LSK/BTC|$1,033,140|$4345.86|0.09%|Recently
+157|Liqui|SNM/BTC|$1,028,110|$4292.53|0.09%|Recently
+158|Bitstamp|ETH/BTC|$1,024,630|$4319.00|0.09%|Recently
+159|Bittrex|MCO/BTC|$1,023,390|$4329.03|0.09%|Recently
+160|Bittrex|VTC/BTC|$1,021,450|$4262.40|0.09%|Recently
+161|Bitfinex|ZEC/BTC|$1,010,920|$4307.33|0.09%|Recently
+162|Tidex|LTC/BTC|$1,010,780|$4305.50|0.09%|Recently
+163|Bittrex|SPR/BTC|$994,238|$4477.51|0.09%|Recently
+164|BL3P|BTC/EUR|$979,322|$4328.26|0.09%|Recently
+165|BitMarket|BTC/PLN|$978,308|$4294.94|0.09%|Recently
+166|Bittrex|PTOY/BTC|$945,060|$4266.28|0.08%|Recently
+167|Bittrex|DAR/BTC|$937,996|$4255.40|0.08%|Recently
+168|Bittrex|TRIG/BTC|$926,830|$4321.15|0.08%|Recently
+169|BTC-Alpha|BTC/USD|$925,834|$4305.50|0.08%|Recently
+170|HitBTC|NXT/BTC|$908,558|$4312.46|0.08%|Recently
+171|Kraken|LTC/BTC|$888,787|$4322.10|0.08%|Recently
+172|Bit-Z|ZEC/BTC|$882,195|$4301.42|0.08%|Recently
+173|Bitfinex|XRP/BTC|$879,784|$4315.27|0.08%|Recently
+174|Bittrex|MUE/BTC|$864,781|$4358.43|0.08%|Recently
+175|Binance|GAS/BTC|$858,635|$4226.27|0.08%|Recently
+176|Exmo|BTC/USD|$851,832|$4305.58|0.08%|Recently
+177|Bittrex|1ST/BTC|$833,611|$4334.49|0.07%|Recently
+178|GDAX|BTC/GBP|$827,689|$4385.55|0.07%|Recently
+179|Bittrex|ERC/BTC|$826,129|$4368.79|0.07%|Recently
+180|Bittrex|EDG/BTC|$815,710|$4369.27|0.07%|Recently
+181|Bittrex|ETC/BTC|$815,350|$4312.97|0.07%|Recently
+182|Luno|BTC/MYR|$812,270|$4322.76|0.07%|Recently
+183|Bittrex|KMD/BTC|$811,562|$4297.26|0.07%|Recently
+184|Bit-Z|ETC/BTC|$804,994|$4332.92|0.07%|Recently
+185|Livecoin|XMR/BTC|$804,763|$4302.02|0.07%|Recently
+186|Bittrex|NXS/BTC|$791,178|$4284.50|0.07%|Recently
+187|Liqui|ETH/BTC|$785,389|$4308.59|0.07%|Recently
+188|Bittrex|OK/BTC|$756,202|$4298.69|0.07%|Recently
+189|Bittrex|TKN/BTC|$750,314|$4332.50|0.07%|Recently
+190|Poloniex|SC/BTC|$742,712|$4343.38|0.07%|Recently
+191|Exmo|ETH/BTC|$742,661|$4348.52|0.07%|Recently
+192|HitBTC|MAID/BTC|$720,569|$4316.07|0.06%|Recently
+193|Coinroom|BTC/PLN|$718,445|$4402.45|0.06%|Recently
+194|Bittrex|STEEM/BTC|$717,611|$4325.94|0.06%|Recently
+195|xBTCe|BTC/USD|$709,420|$4300.30|0.06%|Recently
+196|WEX|LTC/BTC|$696,224|$4314.66|0.06%|Recently
+197|The Rock Trading|BTC/EUR|$676,281|$4346.06|0.06%|Recently
+198|Poloniex|FCT/BTC|$674,136|$4307.39|0.06%|Recently
+199|Bitfinex|ETC/BTC|$674,013|$4321.90|0.06%|Recently
+200|Livecoin|LSK/BTC|$666,668|$4348.30|0.06%|Recently
+201|Huobi|BCC/BTC|$665,769|* $4359.61|0.06%|Recently
+202|BTC Markets|BTC/AUD|$663,565|$4401.14|0.06%|Recently
+203|Kraken|BCH/BTC|$662,872|$4334.60|0.06%|Recently
+204|Poloniex|OMG/BTC|$631,020|$4320.06|0.06%|Recently
+205|Bittrex|GNT/BTC|$624,128|$4322.52|0.06%|Recently
+206|OkCoin Intl.|BTC/USD|$623,874|$4338.00|0.06%|Recently
+207|HitBTC|ETC/BTC|$618,044|$4331.02|0.05%|Recently
+208|Yuanbao|BTC/CNY|$616,747|$4141.54|0.00%|140 hours ago
+209|Bittrex|ARDR/BTC|$611,427|$4107.61|0.05%|Recently
+210|Binance|FUN/BTC|$586,046|$4295.38|0.05%|Recently
+211|Bitfinex|EOS/BTC|$586,038|$4324.19|0.05%|Recently
+212|Bittrex|KORE/BTC|$582,702|$4256.07|0.05%|Recently
+213|Novaexchange|ATCC/BTC|$581,102|$4315.81|0.05%|Recently
+214|Livecoin|BCH/BTC|$575,912|$4428.51|0.05%|Recently
+215|GDAX|LTC/BTC|$567,096|$4325.29|0.05%|Recently
+216|Binance|CTR/BTC|$565,957|$4258.85|0.05%|Recently
+217|Livecoin|LTC/BTC|$565,004|$4333.22|0.05%|Recently
+218|Kraken|XMR/BTC|$561,317|$4341.79|0.05%|Recently
+219|Exmo|BTC/RUB|$559,676|$4109.04|0.05%|Recently
+220|Bit-Z|XPM/BTC|$558,084|$4325.66|0.05%|Recently
+221|Bittrex|AEON/BTC|$551,871|$4249.51|0.05%|Recently
+222|LakeBTC|BTC/CAD|$549,247|$4460.79|0.05%|Recently
+223|Binance|SNGLS/BTC|$548,144|$4305.17|0.05%|Recently
+224|Poloniex|STEEM/BTC|$545,831|* $4336.96|0.05%|Recently
+225|Bittrex|NAV/BTC|$536,458|$4362.68|0.05%|Recently
+226|Bittrex|DRACO/BTC|$529,975|$4285.02|0.05%|Recently
+227|Bittrex|NXC/BTC|$528,766|$4303.19|0.05%|Recently
+228|Bittrex|BTA/BTC|$522,395|$4362.60|0.05%|Recently
+229|BTCTurk|BTC/TRY|$520,114|$4311.65|0.05%|Recently
+230|LiteBit.eu|BTC/EUR|$510,765|$4350.21|0.05%|Recently
+231|Bittrex|XST/BTC|$500,792|$4249.52|0.04%|Recently
+232|Bittrex|RISE/BTC|$497,035|$4296.59|0.04%|Recently
+233|Bittrex|SNGLS/BTC|$496,100|$4389.38|0.04%|Recently
+234|Liqui|BMC/BTC|$494,166|$4364.15|0.04%|Recently
+235|Kraken|DASH/BTC|$493,293|$4304.99|0.04%|Recently
+236|Bitstamp|XRP/BTC|$493,249|$4306.23|0.04%|Recently
+237|Livecoin|BCC/BTC|$491,162|$4337.12|0.04%|Recently
+238|WEX|BTC/RUR|$490,125|$4508.19|0.04%|Recently
+239|Kraken|XRP/BTC|$486,959|$4322.53|0.04%|Recently
+240|DSX|BTC/USD|$480,317|$4308.57|0.04%|Recently
+241|HitBTC|LSK/BTC|$479,117|$4365.24|0.04%|Recently
+242|Bittrex|DCR/BTC|$470,831|$4305.93|0.04%|Recently
+243|Liqui|BAT/BTC|$464,209|$4373.50|0.04%|Recently
+244|Bit-Z|PPC/BTC|$461,930|$4641.02|0.04%|Recently
+245|Poloniex|MAID/BTC|$453,130|$4246.02|0.04%|Recently
+246|Bittrex|BSD/BTC|$448,615|$4344.10|0.04%|Recently
+247|xBTCe|BTC/JPY|$444,236|$4186.96|0.00%|7 hours ago
+248|xBTCe|BTC/GBP|$444,178|$4187.20|0.00%|7 hours ago
+249|OKEx|LTC/BTC|$435,861|$4339.54|0.04%|Recently
+250|xBTCe|BTC/EUR|$435,024|$4103.61|0.00%|7 hours ago
+251|Bittrex|LMC/BTC|$433,112|$4321.10|0.04%|Recently
+252|xBTCe|BTC/CNH|$431,408|$4069.12|0.00%|7 hours ago
+253|Poloniex|ZRX/BTC|$427,741|$4332.04|0.04%|Recently
+254|CoinExchange|ETHD/BTC|$423,105|$4333.42|0.04%|Recently
+255|Bittrex|XZC/BTC|$417,559|$4369.22|0.04%|Recently
+256|WEX|ETH/BTC|$416,905|$4324.05|0.04%|Recently
+257|Tidex|MSD/BTC|$416,679|$4320.96|0.04%|Recently
+258|BitcoinToYou|BTC/BRL|$412,902|$4489.74|0.04%|Recently
+259|TCC Exchange|TCC/BTC|$397,930|$4345.42|0.04%|Recently
+260|Bittrex|NXT/BTC|$393,703|$4295.67|0.03%|Recently
+261|Koinim|BTC/TRY|$390,279|$4318.95|0.03%|Recently
+262|Kraken|ICN/BTC|$389,260|$4314.42|0.03%|Recently
+263|Binance|BQX/BTC|$388,312|$4457.69|0.03%|Recently
+264|Liqui|KNC/BTC|$387,537|$4350.39|0.03%|Recently
+265|Exmo|BTC/EUR|$383,539|$4241.80|0.03%|Recently
+266|Exmo|DASH/BTC|$383,266|$4293.47|0.03%|Recently
+267|Bittrex|LBC/BTC|$383,012|$4314.97|0.03%|Recently
+268|WEX|DSH/BTC|$381,812|$4318.74|0.03%|Recently
+269|Bittrex|UBQ/BTC|$375,230|$4288.85|0.03%|Recently
+270|Cryptopia|BIS/BTC|$374,387|$4320.82|0.03%|Recently
+271|QuadrigaCX|ETH/BTC|$373,677|$4306.23|0.03%|Recently
+272|HitBTC|BCN/BTC|$371,231|$4323.23|0.03%|Recently
+273|HitBTC|XTZ/BTC|$369,235|$4341.12|0.03%|Recently
+274|Bittrex|XEL/BTC|$367,306|$4270.63|0.03%|Recently
+275|Bittrex|SNT/BTC|$359,518|$4293.50|0.03%|Recently
+276|Bittrex|BNT/BTC|$354,815|$4370.15|0.03%|Recently
+277|Bittrex|TRST/BTC|$354,219|$4317.56|0.03%|Recently
+278|Novaexchange|CMP/BTC|$352,820|$4320.95|0.03%|Recently
+279|OKEx|ETH/BTC|$352,788|$4318.99|0.03%|Recently
+280|Bittrex|MAID/BTC|$348,697|$4264.73|0.03%|Recently
+281|Bittrex|XLM/BTC|$348,324|$4432.86|0.03%|Recently
+282|Bittrex|WINGS/BTC|$343,347|$4303.60|0.03%|Recently
+283|Bittrex|STORJ/BTC|$342,158|$4290.54|0.03%|Recently
+284|Bittrex|DOGE/BTC|$337,693|$4556.34|0.03%|Recently
+285|DSX|BTC/EUR|$333,730|$4318.01|0.03%|Recently
+286|Huobi|ETH/BTC|$333,051|* $4322.38|0.03%|Recently
+287|BTC-Alpha|XMR/BTC|$321,560|$4327.34|0.03%|Recently
+288|Poloniex|DCR/BTC|$321,220|$4344.80|0.03%|Recently
+289|Poloniex|GNT/BTC|$321,050|$4315.78|0.03%|Recently
+290|Kraken|ETC/BTC|$319,549|$4309.79|0.03%|Recently
+291|CoinExchange|ETH/BTC|$314,958|$4352.60|0.03%|Recently
+292|Altcoin Trader|BTC/ZAR|$312,585|$4466.44|0.03%|Recently
+293|Bittrex|FCT/BTC|$307,781|$4280.38|0.03%|Recently
+294|Bittrex|GBYTE/BTC|$306,088|$4266.55|0.03%|Recently
+295|Exmo|WAVES/BTC|$304,219|$4358.94|0.03%|Recently
+296|Tidex|ETH/BTC|$303,641|$4319.02|0.03%|Recently
+297|Gatehub|XRP/BTC|$300,815|$4383.38|0.03%|Recently
+298|Coinsquare|BTC/CAD|$300,654|$4490.78|0.03%|Recently
+299|Tidex|DASH/BTC|$299,734|$4343.43|0.03%|Recently
+300|Poloniex|SYS/BTC|$299,702|$4337.33|0.03%|Recently
+301|HitBTC|STRAT/BTC|$288,806|$4258.84|0.03%|Recently
+302|Bittrex|NLG/BTC|$287,002|$4321.78|0.03%|Recently
+303|Bitstamp|LTC/BTC|$283,534|$4325.38|0.03%|Recently
+304|CoinExchange|PURA/BTC|$278,124|$4319.18|0.02%|Recently
+305|Bittrex|CRW/BTC|$276,617|$4323.28|0.02%|Recently
+306|Bittrex|RLC/BTC|$275,927|$4323.00|0.02%|Recently
+307|HitBTC|XEM/BTC|$275,199|$4456.49|0.02%|Recently
+308|Kraken|ZEC/BTC|$274,456|$4314.14|0.02%|Recently
+309|Poloniex|DOGE/BTC|$269,174|$4366.49|0.02%|Recently
+310|Biduobao|BTC/CNY|$268,940|$4202.19|0.02%|Recently
+311|Liqui|STX/BTC|$268,209|$4385.36|0.02%|Recently
+312|xBTCe|DASH/BTC|$262,143|$4532.79|0.02%|Recently
+313|Poloniex|VTC/BTC|$259,821|$4295.92|0.02%|Recently
+314|Bittrex|CFI/BTC|$258,476|$4433.74|0.02%|Recently
+315|CoinMate|BTC/EUR|$253,534|$4340.22|0.02%|Recently
+316|CEX.IO|BTC/EUR|$249,551|$4356.15|0.02%|Recently
+317|Bitcoin Indonesia|BTS/BTC|$248,995|$4104.73|0.02%|Recently
+318|Tidex|KOLION/BTC|$248,444|$4335.35|0.02%|Recently
+319|Poloniex|NXT/BTC|$247,605|$4323.73|0.02%|Recently
+320|Poloniex|NXC/BTC|$246,913|$4313.52|0.02%|Recently
+321|Bittrex|EBST/BTC|$244,476|$4320.96|0.02%|Recently
+322|AidosMarket|ADK/BTC|$244,432|$4320.96|0.02%|Recently
+323|C-CEX|ETH/BTC|$243,571|$4312.05|0.02%|Recently
+324|Cryptopia|NEBL/BTC|$242,160|$4334.94|0.02%|Recently
+325|Poloniex|VIA/BTC|$232,463|$4275.20|0.02%|Recently
+326|Bittrex|QRL/BTC|$230,797|$4333.14|0.02%|Recently
+327|Binance|XVG/BTC|$228,897|$4321.93|0.02%|Recently
+328|Nevbit|BTC/PLN|$227,398|$4318.67|0.02%|Recently
+329|Bittrex|BAY/BTC|$226,346|$4300.04|0.02%|Recently
+330|Bittrex|SAFEX/BTC|$222,275|$4320.63|0.02%|Recently
+331|Huobi|LTC/BTC|$220,701|* $4347.96|0.02%|Recently
+332|Liqui|GNT/BTC|$215,568|$4321.02|0.02%|Recently
+333|OpenLedger DEX|BTS/BTC|$214,948|$4072.55|0.02%|Recently
+334|Novaexchange|ETH/BTC|$212,074|$4391.62|0.02%|Recently
+335|CEX.IO|ETH/BTC|$210,620|$4316.14|0.02%|Recently
+336|Poloniex|CLAM/BTC|$210,156|$4300.95|0.02%|Recently
+337|Bittrex|AMP/BTC|$209,450|$4309.56|0.02%|Recently
+338|Bittrex|ZEN/BTC|$207,108|$4319.13|0.02%|Recently
+339|Bittrex|MEME/BTC|$206,472|$4320.89|0.02%|Recently
+340|Cryptopia|ETH/BTC|$200,248|$4314.57|0.02%|Recently
+341|Kraken|BTC/CAD|$200,099|$4375.35|0.02%|Recently
+342|QuadrigaCX|BTC/USD|$199,982|$4399.99|0.02%|Recently
+343|Liqui|DNT/BTC|$199,531|$4405.35|0.02%|Recently
+344|Bittrex|DCT/BTC|$196,201|$4314.23|0.02%|Recently
+345|HitBTC|LRC/BTC|$195,100|$4329.57|0.02%|Recently
+346|Bittrex|GUP/BTC|$194,327|$4305.54|0.02%|Recently
+347|YoBit|BTC/RUR|$194,268|$4357.39|0.02%|Recently
+348|Bittrex|BLK/BTC|$194,136|$4316.17|0.02%|Recently
+349|Luno|BTC/NGN|$192,665|$4225.46|0.02%|Recently
+350|Bittrex|GAM/BTC|$186,996|$4320.97|0.02%|Recently
+351|CoinExchange|VOISE/BTC|$181,056|$4330.21|0.02%|Recently
+352|Novaexchange|DOGE/BTC|$179,484|$4556.34|0.02%|Recently
+353|Livecoin|TIME/BTC|$179,211|$4506.85|0.02%|Recently
+354|Waves Decentralized Exchange|WAVES/BTC|$179,211|$4315.05|0.02%|Recently
+355|Kraken|EOS/BTC|$177,492|$4314.58|0.02%|Recently
+356|Bittrex|LUN/BTC|$177,393|$4339.34|0.02%|Recently
+357|WEX|BTC/EUR|$173,945|$4406.78|0.02%|Recently
+358|Bittrex|CLOAK/BTC|$173,187|$4254.27|0.02%|Recently
+359|Bittrex|EXP/BTC|$171,065|$4309.71|0.02%|Recently
+360|Poloniex|BCN/BTC|$170,095|$4336.65|0.02%|Recently
+361|Bittrex|VTR/BTC|$168,912|$4375.88|0.01%|Recently
+362|BTER|BTC/CNY|$166,448|* $3949.60|0.01%|Recently
+363|Bittrex|MUSIC/BTC|$166,381|$4310.52|0.01%|Recently
+364|Bittrex|NBT/BTC|$164,346|$4320.96|0.01%|Recently
+365|Bittrex|DMD/BTC|$162,985|$4320.97|0.01%|Recently
+366|Mercatox|ETH/BTC|$161,702|$4246.30|0.01%|Recently
+367|Liqui|TRX/BTC|$159,862|$4343.00|0.01%|Recently
+368|Cryptopia|LTC/BTC|$154,729|$4325.73|0.01%|Recently
+369|CoinExchange|BQX/BTC|$154,654|$4191.84|0.01%|Recently
+370|WEX|BCH/BTC|$154,303|$4379.85|0.01%|Recently
+371|Poloniex|ARDR/BTC|$152,440|$4074.15|0.01%|Recently
+372|Exmo|BTC/UAH|$151,659|$4140.06|0.01%|Recently
+373|Bittylicious|BTC/GBP|$151,604|$4547.33|0.01%|Recently
+374|bitFlyer|ETH/BTC|$150,056|$4303.25|0.01%|Recently
+375|Poloniex|LBC/BTC|$150,030|$4243.68|0.01%|Recently
+376|Bittrex|MONA/BTC|$149,337|$4360.59|0.01%|Recently
+377|Bittrex|ANT/BTC|$148,533|$4359.51|0.01%|Recently
+378|Bittrex|BURST/BTC|$147,031|$4288.84|0.01%|Recently
+379|Bittrex|BRK/BTC|$145,698|$4223.43|0.01%|Recently
+380|YoBit|BTC/USD|$144,194|$4402.00|0.01%|Recently
+381|Novaexchange|BDL/BTC|$143,307|$4200.35|0.01%|Recently
+382|Bittrex|IOC/BTC|$142,734|$4321.59|0.01%|Recently
+383|YoBit|DASH/BTC|$139,475|$4326.62|0.01%|Recently
+384|C-CEX|APW/BTC|$139,403|$4320.96|0.01%|Recently
+385|BitMEX|BTC/USD|** $295,262,000|$4289.20|0.00%|Recently
+386|Coincheck|BTC/JPY|** $96,589,400|$4298.63|0.00%|Recently
+387|Zaif|BTC/JPY|** $36,383,200|$4301.83|0.00%|Recently
+388|BTC100|BTC/CNY|** $24,055,400|$2405.54|0.00%|Recently
+389|Quoine|BTC/JPY|** $23,184,900|$4300.41|0.00%|Recently
+390|BTCBOX|BTC/JPY|** $9,608,590|$4303.37|0.00%|Recently
+391|Quoine|BTC/USD|** $4,392,000|$4305.67|0.00%|Recently
+392|Bit-Z|GXS/BTC|** $2,874,780|$4316.27|0.00%|Recently
+393|Quoine|BTC/AUD|** $2,226,430|$4314.57|0.00%|Recently
+394|Quoine|BTC/EUR|** $2,205,810|$4309.95|0.00%|Recently
+395|Quoine|BTC/SGD|** $1,865,170|$4312.76|0.00%|Recently
+396|Quoine|BTC/PHP|** $975,337|$4321.47|0.00%|Recently
+397|Quoine|BTC/IDR|** $725,636|$4318.86|0.00%|Recently
+398|Quoine|BTC/HKD|** $430,850|$4324.10|0.00%|Recently
+399|Tidex|INPAY/BTC|** $337,854|$4219.44|0.00%|Recently
+400|Zaif|XEM/BTC|** $167,696|$4487.80|0.00%|Recently
+
