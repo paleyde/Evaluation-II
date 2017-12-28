@@ -16,7 +16,7 @@ Ans1=a1.iloc[0:20,:]
 Ans12=a2.iloc[0:20,:]
 Ans1.to_csv('top_20_largest_exchange_by_volume.csv')
 Ans12.to_csv('top_20_largest_exchange_by_turnover.csv')
-b=bitcoin.groupby('Pair').agg({'Volume (24h)(in $)':"mean"})
+b=bitcoin.groupby('Pair').agg({'Volume (24h)(in $)':"sum"})
 b1=b.sort_values(by='Volume (24h)(in $)', ascending=0)
 Ans2=b1.iloc[0:25,:]
 Ans2.to_csv('top_25_most_traded_pairs.csv')
