@@ -14,14 +14,17 @@ a1=a.sort_values(by='Pair', ascending=0)
 a2=a.sort_values(by='Volume (24h)(in $)', ascending=0)
 Ans1=a1.iloc[0:20,:]
 Ans12=a2.iloc[0:20,:]
-Ans1.to_csv('top_20_largest_exchange_by_volume.csv')
+Ans1.to_csv('top_20_largest_exchange_by_no_of_traded_pairs.csv')
 Ans12.to_csv('top_20_largest_exchange_by_turnover.csv')
-b=bitcoin.groupby('Pair').agg({'Volume (24h)(in $)':"sum"})
-b1=b.sort_values(by='Volume (24h)(in $)', ascending=0)
+b=bitcoin.groupby('Pair').agg({'Source':"nunique",'Volume (24h)(in $)':"sum"})
+b1=b.sort_values(by='Source', ascending=0)
+b12=b.sort_values(by='Volume (24h)(in $)', ascending=0)
 Ans2=b1.iloc[0:25,:]
-Ans2.to_csv('top_25_most_traded_pairs.csv')
+Ans21=b12.iloc[0:25,:]
+Ans2.to_csv('top_25_most_traded_pairs_no_of_traded_pairs.csv')
+Ans21.to_csv('top_25_most_traded_pairs_by_turnover.csv')
 c=bitcoin.groupby('Pair').agg({'Price(in $)':"mean"})
 c1=c.sort_values(by='Price(in $)', ascending=1)
 Ans3=c1.iloc[0:10,:]
-Ans3.to_csv('top_10_cheapest_pairs.csv')
+#Ans3.to_csv('top_10_cheapest_pairs.csv')
 
