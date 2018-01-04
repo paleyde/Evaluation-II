@@ -33,12 +33,6 @@ for i in range(0,l2):
 c=pd.DataFrame({'industry_code':s2,'industry_name':col4})
 ind=c.set_index('industry_code')
 #ind.to_csv("industry.csv")
-col5=company1['comp_name'].unique()
-l3=len(col5)
-s3=[]
-stock=company1.groupby('comp_name').agg({'NSE Symbol': "first"})
-for i in range(0,l3):
-    s3.append(str('STK')+str(i))
-stock['stock_code']=s3    
-stck=stock.set_index('stock_code').rename(columns={'NSE Symbol':'stock_name'})
+stock=company1.groupby('comp_code').agg({'NSE Symbol': "first"})
+stck=stock.rename(columns={'NSE Symbol':'stock_code'})
 stck.to_csv("stock.csv")
